@@ -1,0 +1,5 @@
+// var let const -farqi
+// bula hammasi ozgaruvchilar hisoblanadi yani ozini ichida malumot saqlovchi bir ombor dse boladi lekin bulani ham bir biridan farq qiladigan joyi bor Asosiysi: let va var bu ozida saqlagan qiymatni keyingi chaqirilishida ozgartrsa boladi const da esa buni iloji yoq, va keyingi farqi bulani hoisting bolishida bularni hammasi hoisting boladi ammo let ni hoisting qilganimizda Reference Error beradi sababi let bu ES6 da chiqgan yangi ozgaruvchi hisoblanadi va unda shunaqa ozida xususiyat bor hoisting bolganda Error qaytaradi, var da esa bunaqa xususiyat yoq hoisting bolganda Undefined qaytaradi
+
+// reduce -nima ?
+// Reduce bu JS methodlaridan bolib Array lar bilan ishlatiladi va bu arrayni ichiga kirib har birini malumotini boshqa bir Arrayga solib qaytaradi va return qiymat oladi va 3 ta parametr qabul  qiladi bulani  2tasi huddi map ga oxshab item  ozi va indexi keyngisi esa boshlangich qiymat hisoblanadi u qiymat orqali biza array ichidagi malumotlarni bir biriga qoshishimiz yoki boshqa funksiyalar qilishimiz mumkin!
